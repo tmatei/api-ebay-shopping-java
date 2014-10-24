@@ -1,6 +1,6 @@
 package com.tudormatei.ebay.shopping.api;
 
-import com.tudormatei.ebay.shopping.response.GetMultipleItemsResponse;
+import com.tudormatei.ebay.shopping.response.*;
 import retrofit.http.GET;
 import retrofit.http.QueryMap;
 
@@ -22,9 +22,6 @@ public interface ShoppingApi {
 
     @GET("/shopping?callname=FindReviewsAndGuides")
     FindReviewsAndGuidesResponse findReviewsAndGuides(@QueryMap(encodeNames=false) Map<String, String> request);
-
-    @GET("/shopping?callname=GetCategoryInfo")
-    GetCategoryInfoResponse getCategoryInfo(@QueryMap(encodeNames=false) Map<String, String> request);
 
     @GET("/shopping?callname=GetCategoryInfo")
     GetCategoryInfoResponse getCategoryInfo(@QueryMap(encodeNames=false) Map<String, String> request);

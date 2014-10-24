@@ -1,10 +1,8 @@
-package com.tudormatei.ebay.shopping.response;
-
-import com.tudormatei.ebay.shopping.type.SimpleItemResponseType;
+package com.tudormatei.ebay.shopping.type;
 
 import java.util.List;
 
-public class GetMultipleItemsResponse extends AbstractResponse {
+public class SimpleItemArrayType {
 
     protected List<SimpleItemResponseType> Item;
 

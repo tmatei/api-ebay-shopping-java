@@ -2,7 +2,7 @@ package com.tudormatei.ebay.shopping.type;
 
 import java.util.Date;
 
-public class UserType {
+public class SimpleUserType {
 
     protected String UserID;
 

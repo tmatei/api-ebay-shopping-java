@@ -6,7 +6,7 @@ import com.tudormatei.ebay.shopping.type.SortOrderEnumType;
 
 import java.util.List;
 
-public class FindHalfProductsRequest extends AbstractRequest {
+public class FindProductsRequest extends AbstractRequest {
 
     protected String IncludeSelector;
 
@@ -18,8 +18,6 @@ public class FindHalfProductsRequest extends AbstractRequest {
 
     protected String QueryKeywords;
 
-    protected String SellerID;
-
     protected List<ProductSortEnumType> ProductSort;
 
     protected List<SortOrderEnumType> SortOrder;
@@ -27,6 +25,10 @@ public class FindHalfProductsRequest extends AbstractRequest {
     protected int MaxEntries;
 
     protected int PageNumber;
+
+    protected String CategoryID;
+
+    protected boolean HideDuplicateItems;
 
     public String getIncludeSelector() {
         return IncludeSelector;
@@ -68,14 +70,6 @@ public class FindHalfProductsRequest extends AbstractRequest {
         QueryKeywords = queryKeywords;
     }
 
-    public String getSellerID() {
-        return SellerID;
-    }
-
-    public void setSellerID(String sellerID) {
-        SellerID = sellerID;
-    }
-
     public List<ProductSortEnumType> getProductSort() {
         return ProductSort;
     }
@@ -106,5 +100,21 @@ public class FindHalfProductsRequest extends AbstractRequest {
 
     public void setPageNumber(int pageNumber) {
         PageNumber = pageNumber;
+    }
+
+    public String getCategoryID() {
+        return CategoryID;
+    }
+
+    public void setCategoryID(String categoryID) {
+        CategoryID = categoryID;
+    }
+
+    public boolean getHideDuplicateItems() {
+        return HideDuplicateItems;
+    }
+
+    public void setHideDuplicateItems(boolean hideDuplicateItems) {
+        HideDuplicateItems = hideDuplicateItems;
     }
 }

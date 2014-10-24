@@ -4,7 +4,7 @@ import com.tudormatei.ebay.shopping.type.SimpleItemResponseType;
 
 import java.util.List;
 
-public class GetMultipleItemsResponse extends AbstractResponse {
+public class GetItemStatusResponse extends AbstractResponse {
 
     protected List<SimpleItemResponseType> Item;
 

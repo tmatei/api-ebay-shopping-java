@@ -1,6 +1,6 @@
 package com.tudormatei.ebay.shopping.type;
 
-public class ProductType {
+public class ProductIDType {
 
     protected String Value;
 

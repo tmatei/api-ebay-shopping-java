@@ -4,7 +4,7 @@ import java.time.Duration;
 import java.util.Date;
 import java.util.List;
 
-public class ItemResponseType {
+public class SimpleItemResponseType {
 
     protected boolean BestOfferEnabled;
 
@@ -42,7 +42,7 @@ public class ItemResponseType {
 
     protected int Quantity;
 
-    protected UserType Seller;
+    protected SimpleUserType Seller;
 
     protected int BidCount;
 
@@ -50,7 +50,7 @@ public class ItemResponseType {
 
     protected AmountType CurrentPrice;
 
-    protected UserType HighBidder;
+    protected SimpleUserType HighBidder;
 
     protected ListingStatusEnumType ListingStatus;
 
@@ -110,7 +110,7 @@ public class ItemResponseType {
 
     protected AmountType MinimumToBid;
 
-    protected ProductType ProductID;
+    protected ProductIDType ProductID;
 
     protected int ItemCount;
 
@@ -318,11 +318,11 @@ public class ItemResponseType {
         Quantity = quantity;
     }
 
-    public UserType getSeller() {
+    public SimpleUserType getSeller() {
         return Seller;
     }
 
-    public void setSeller(UserType seller) {
+    public void setSeller(SimpleUserType seller) {
         Seller = seller;
     }
 
@@ -350,11 +350,11 @@ public class ItemResponseType {
         CurrentPrice = currentPrice;
     }
 
-    public UserType getHighBidder() {
+    public SimpleUserType getHighBidder() {
         return HighBidder;
     }
 
-    public void setHighBidder(UserType highBidder) {
+    public void setHighBidder(SimpleUserType highBidder) {
         HighBidder = highBidder;
     }
 
@@ -590,11 +590,11 @@ public class ItemResponseType {
         MinimumToBid = minimumToBid;
     }
 
-    public ProductType getProductID() {
+    public ProductIDType getProductID() {
         return ProductID;
     }
 
-    public void setProductID(ProductType productID) {
+    public void setProductID(ProductIDType productID) {
         ProductID = productID;
     }
 
