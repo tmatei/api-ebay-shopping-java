@@ -20,6 +20,8 @@ public class FindReviewsAndGuidesResponse extends AbstractResponse {
 
     protected int TotalProducts;
 
+    protected int TotalPages;
+
     protected BuyingGuideDetailsType BuyingGuideDetails;
 
     protected ReviewDetailsType ReviewDetails;
@@ -88,6 +90,14 @@ public class FindReviewsAndGuidesResponse extends AbstractResponse {
 
     public void setTotalProducts(int totalProducts) {
         TotalProducts = totalProducts;
+    }
+
+    public int getTotalPages() {
+        return TotalPages;
+    }
+
+    public void setTotalPages(int totalPages) {
+        TotalPages = totalPages;
     }
 
     public BuyingGuideDetailsType getBuyingGuideDetails() {

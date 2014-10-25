@@ -4,13 +4,13 @@ public class GetShippingCostsRequest extends AbstractRequest {
 
     protected String ItemID;
 
-    protected int QuantitySold;
+    protected Integer QuantitySold;
 
     protected String DestinationPostalCode;
 
     protected String DestinationCountryCode;
 
-    protected boolean IncludeDetails;
+    protected Boolean IncludeDetails;
 
     public String getItemID() {
         return ItemID;
@@ -20,7 +20,7 @@ public class GetShippingCostsRequest extends AbstractRequest {
         ItemID = itemID;
     }
 
-    public int getQuantitySold() {
+    public Integer getQuantitySold() {
         return QuantitySold;
     }
 
@@ -44,7 +44,7 @@ public class GetShippingCostsRequest extends AbstractRequest {
         DestinationCountryCode = destinationCountryCode;
     }
 
-    public boolean getIncludeDetails() {
+    public Boolean getIncludeDetails() {
         return IncludeDetails;
     }
 

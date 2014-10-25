@@ -1,0 +1,309 @@
+{
+	"Timestamp" : "2014-10-24T23:48:20.657Z",
+	"Ack" : "Success",
+	"Build" : "E885_CORE_APILW2_16993394_R1",
+	"Version" : "885",
+	"CorrelationID" : "findProductsTest",
+	"ApproximatePages" : 3143,
+	"MoreResults" : true,
+	"PageNumber" : 1,
+	"Product" : [
+		{
+			"DomainName" : "Wristwatches",
+			"DetailsURL" : "http://syicatalogs.ebay.com/ws/eBayISAPI.dll?PageSyiProductDetails&IncludeAttributes=1&ShowAttributesTable=1&ProductMementoString=122952:2:1986:1311447315:665071785:7731f4ff5c6cceb0eb4ca514c139d366:1:1:1:1389031367",
+			"DisplayStockPhotos" : true,
+			"ProductID" : [
+				{
+					"Value" : "70305225",
+					"Type" : "Reference"
+				}
+			],
+			"ItemSpecifics" : {
+				"NameValueList" : [
+					{
+						"Name" : "Ebay Title",
+						"Value" : [
+							"Casio F91W-1 Wrist Watch for Men"
+						]
+					},
+					{
+						"Name" : "MPN",
+						"Value" : [
+							"F91W-1"
+						]
+					}
+				]
+			},
+			"ReviewCount" : 55,
+			"StockPhotoURL" : "http://i.ebayimg.com/00/$T2eC16VHJGwFFZOOiospBRtmUZfuiQ~~_6.JPG?set_id=89040003C1",
+			"Title" : "Casio F91W-1 Wrist Watch for Men"
+		},
+		{
+			"DomainName" : "Heart rate monitors",
+			"DetailsURL" : "http://syicatalogs.ebay.com/ws/eBayISAPI.dll?PageSyiProductDetails&IncludeAttributes=1&ShowAttributesTable=1&ProductMementoString=123737:2:9668:3951466996:653452466:ba7da3508ecafdc633dd42a803ea2406:1:1:1:1407201022",
+			"DisplayStockPhotos" : true,
+			"ProductID" : [
+				{
+					"Value" : "84536506",
+					"Type" : "Reference"
+				}
+			],
+			"ItemSpecifics" : {
+				"NameValueList" : [
+					{
+						"Name" : "RESERVED_PRODUCT_TITLE",
+						"Value" : [
+							"Polar FT7  Heart Rate Monitor"
+						]
+					}
+				]
+			},
+			"ReviewCount" : 25,
+			"StockPhotoURL" : "http://i.ebayimg.com/09/!!d8jM1wCWM~$(KGrHqF,!iEEw5OFLFY4BMTE4jsH0g~~_6.JPG?set_id=89040003C1",
+			"Title" : "Polar FT7  Heart Rate Monitor"
+		},
+		{
+			"DomainName" : "Wristwatches",
+			"DetailsURL" : "http://syicatalogs.ebay.com/ws/eBayISAPI.dll?PageSyiProductDetails&IncludeAttributes=1&ShowAttributesTable=1&ProductMementoString=122952:2:1986:420754982:615725212:2d89b1ff9395254575d4ae891e8db51f:1:1:1:5000042482298",
+			"DisplayStockPhotos" : false,
+			"ProductID" : [
+				{
+					"Value" : "144458862",
+					"Type" : "Reference"
+				}
+			],
+			"ItemSpecifics" : {
+				"NameValueList" : [
+					{
+						"Name" : "Ebay Title",
+						"Value" : [
+							"Geneva Crystal LC16 Wrist Watch for Women"
+						]
+					},
+					{
+						"Name" : "MPN",
+						"Value" : [
+							"LC16"
+						]
+					}
+				]
+			},
+			"ReviewCount" : 3,
+			"Title" : "Geneva Crystal LC16 Wrist Watch for Women"
+		},
+		{
+			"DomainName" : "Wristwatches",
+			"DetailsURL" : "http://syicatalogs.ebay.com/ws/eBayISAPI.dll?PageSyiProductDetails&IncludeAttributes=1&ShowAttributesTable=1&ProductMementoString=122952:2:1986:1377295342:665000012:be04001988081347bfd322c9c1d732f4:1:1:1:1411155155",
+			"DisplayStockPhotos" : true,
+			"ProductID" : [
+				{
+					"Value" : "86040772",
+					"Type" : "Reference"
+				}
+			],
+			"ItemSpecifics" : {
+				"NameValueList" : [
+					{
+						"Name" : "Ebay Title",
+						"Value" : [
+							"Timex Ironman 100-Lap Full T5E2319J Wrist Watch for Men"
+						]
+					},
+					{
+						"Name" : "MPN",
+						"Value" : [
+							"T5E2319J"
+						]
+					}
+				]
+			},
+			"ReviewCount" : 8,
+			"StockPhotoURL" : "http://i.ebayimg.com/10/!!eCE7tgBWM~$(KGrHqR,!hwE0EiJPle1BNREUQN0qw~~_6.JPG?set_id=89040003C1",
+			"Title" : "Timex Ironman 100-Lap Full T5E2319J Wrist Watch for Men"
+		},
+		{
+			"DomainName" : "Wristwatches",
+			"DetailsURL" : "http://syicatalogs.ebay.com/ws/eBayISAPI.dll?PageSyiProductDetails&IncludeAttributes=1&ShowAttributesTable=1&ProductMementoString=122952:2:1986:1294605589:664047759:461cfd5e1791a40df2b2970c36dd6fe9:1:1:1:1389032221",
+			"DisplayStockPhotos" : true,
+			"ProductID" : [
+				{
+					"Value" : "70309459",
+					"Type" : "Reference"
+				}
+			],
+			"ItemSpecifics" : {
+				"NameValueList" : [
+					{
+						"Name" : "Ebay Title",
+						"Value" : [
+							"Invicta Pro Diver 8928 Wrist Watch for Men and Men"
+						]
+					},
+					{
+						"Name" : "MPN",
+						"Value" : [
+							"8928"
+						]
+					}
+				]
+			},
+			"ReviewCount" : 15,
+			"StockPhotoURL" : "http://i.ebayimg.com/06/!!d6(0h!B2M~$(KGrHqQH-D!EtFGDUl+SBLev6q(pBw~~_6.JPG?set_id=89040003C1",
+			"Title" : "Invicta Pro Diver 8928 Wrist Watch for Men and Men"
+		},
+		{
+			"DomainName" : "Wristwatches",
+			"DetailsURL" : "http://syicatalogs.ebay.com/ws/eBayISAPI.dll?PageSyiProductDetails&IncludeAttributes=1&ShowAttributesTable=1&ProductMementoString=122952:2:1986:1871865143:668014463:68ddf5cad0d7500f4603d09df0918dbc:1:1:1:5000062236367",
+			"DisplayStockPhotos" : true,
+			"ProductID" : [
+				{
+					"Value" : "174103023",
+					"Type" : "Reference"
+				}
+			],
+			"ItemSpecifics" : {
+				"NameValueList" : [
+					{
+						"Name" : "Ebay Title",
+						"Value" : [
+							"Casio GA-100-1A Wrist Watch For Men"
+						]
+					},
+					{
+						"Name" : "MPN",
+						"Value" : [
+							"GA-100-1A"
+						]
+					}
+				]
+			},
+			"ReviewCount" : 7,
+			"StockPhotoURL" : "http://i.ebayimg.com/00/z/THgAAOxy4dNS16VS/$_6.JPG?set_id=89040003C1",
+			"Title" : "Casio GA-100-1A Wrist Watch For Men"
+		},
+		{
+			"DomainName" : "Video Games",
+			"DetailsURL" : "http://syicatalogs.ebay.com/ws/eBayISAPI.dll?PageSyiProductDetails&IncludeAttributes=1&ShowAttributesTable=1&ProductMementoString=117495:2:1051:4053673417:660090897:43aa83d8c8f30f2d7d918bdb32c97941:1:1:1:5000054934834",
+			"DisplayStockPhotos" : true,
+			"ProductID" : [
+				{
+					"Value" : "165763827",
+					"Type" : "Reference"
+				},
+				{
+					"Value" : "3307215732816",
+					"Type" : "UPC"
+				}
+			],
+			"ItemSpecifics" : {
+				"NameValueList" : [
+					{
+						"Name" : "Genre",
+						"Value" : [
+							"Action, Adventure"
+						]
+					},
+					{
+						"Name" : "Released Year",
+						"Value" : [
+							"2014"
+						]
+					}
+				]
+			},
+			"ReviewCount" : 16,
+			"StockPhotoURL" : "http://i.ebayimg.com/00/z/-foAAOxyHntSXeYz/$T2eC16hHJIEFHS,vbiNZBS(eYyfsIg~~_6.JPG?set_id=89040003C1",
+			"Title" : "Watch_Dogs  (Sony PlayStation 4, 2014)"
+		},
+		{
+			"DomainName" : "Wristwatches",
+			"DetailsURL" : "http://syicatalogs.ebay.com/ws/eBayISAPI.dll?PageSyiProductDetails&IncludeAttributes=1&ShowAttributesTable=1&ProductMementoString=122952:2:1986:3498441789:615984489:21d37c2991a82a97901b82f257b17b21:1:1:1:5000066782065",
+			"DisplayStockPhotos" : true,
+			"ProductID" : [
+				{
+					"Value" : "177828039",
+					"Type" : "Reference"
+				}
+			],
+			"ItemSpecifics" : {
+				"NameValueList" : [
+					{
+						"Name" : "Ebay Title",
+						"Value" : [
+							"Citizen Eco-Drive BM8475-00F Wrist Watch for Men"
+						]
+					},
+					{
+						"Name" : "MPN",
+						"Value" : [
+							"BM8475-00F"
+						]
+					}
+				]
+			},
+			"ReviewCount" : 1,
+			"StockPhotoURL" : "http://i.ebayimg.com/00/s/NDAwWDI2Nw==/z/lTUAAMXQeKNTPHqM/$_6.JPG?set_id=89040003C1",
+			"Title" : "Citizen Eco-Drive BM8475-00F Wrist Watch for Men"
+		},
+		{
+			"DomainName" : "Wristwatches",
+			"DetailsURL" : "http://syicatalogs.ebay.com/ws/eBayISAPI.dll?PageSyiProductDetails&IncludeAttributes=1&ShowAttributesTable=1&ProductMementoString=122952:2:1986:438188075:617204285:c953067be9533641f432b6b4c69dc7c2:1:1:1:5000042481875",
+			"DisplayStockPhotos" : false,
+			"ProductID" : [
+				{
+					"Value" : "144454995",
+					"Type" : "Reference"
+				}
+			],
+			"ItemSpecifics" : {
+				"NameValueList" : [
+					{
+						"Name" : "Ebay Title",
+						"Value" : [
+							"Vostok 428 Wrist Watch for Men"
+						]
+					},
+					{
+						"Name" : "MPN",
+						"Value" : [
+							"428"
+						]
+					}
+				]
+			},
+			"ReviewCount" : 2,
+			"Title" : "Vostok 428 Wrist Watch for Men"
+		},
+		{
+			"DomainName" : "Headsets",
+			"DetailsURL" : "http://syicatalogs.ebay.com/ws/eBayISAPI.dll?PageSyiProductDetails&IncludeAttributes=1&ShowAttributesTable=1&ProductMementoString=121887:2:38418:886639514:620306284:65013668004fdc2ccfc2765cda9ac335:1:1:1:5000019605100",
+			"DisplayStockPhotos" : true,
+			"ProductID" : [
+				{
+					"Value" : "129513764",
+					"Type" : "Reference"
+				}
+			],
+			"ItemSpecifics" : {
+				"NameValueList" : [
+					{
+						"Name" : "RESERVED_PRODUCT_TITLE",
+						"Value" : [
+							"Plantronics BackBeat GO Black In-Ear Only Headsets"
+						]
+					},
+					{
+						"Name" : "MPN",
+						"Value" : [
+							"86800-01"
+						]
+					}
+				]
+			},
+			"ReviewCount" : 57,
+			"StockPhotoURL" : "http://i.ebayimg.com/00/$(KGrHqZHJEEFDN6t2SSZBQ6t77(2)w~~_6.JPG?set_id=89040003C1",
+			"Title" : "Plantronics BackBeat GO Black In-Ear Only Headsets"
+		}
+	],
+	"TotalProducts" : 31424
+}

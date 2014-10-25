@@ -14,9 +14,9 @@ public class FindReviewsAndGuidesRequest extends AbstractRequest {
 
     protected String CategoryID;
 
-    protected int MaxResultsPerPage;
+    protected Integer MaxResultsPerPage;
 
-    protected int PageNumber;
+    protected Integer PageNumber;
 
     protected List<ReviewSortEnumType> ReviewSort;
 
@@ -46,7 +46,7 @@ public class FindReviewsAndGuidesRequest extends AbstractRequest {
         CategoryID = categoryID;
     }
 
-    public int getMaxResultsPerPage() {
+    public Integer getMaxResultsPerPage() {
         return MaxResultsPerPage;
     }
 
@@ -54,7 +54,7 @@ public class FindReviewsAndGuidesRequest extends AbstractRequest {
         MaxResultsPerPage = maxResultsPerPage;
     }
 
-    public int getPageNumber() {
+    public Integer getPageNumber() {
         return PageNumber;
     }
 

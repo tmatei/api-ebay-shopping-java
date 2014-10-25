@@ -1,0 +1,515 @@
+{
+	"Timestamp" : "2014-10-24T15:46:07.174Z",
+	"Ack" : "Success",
+	"Build" : "E885_CORE_APILW2_16993394_R1",
+	"Version" : "885",
+    "CorrelationID" : "findHalfProductsTest",
+	"PageNumber" : 1,
+	"ApproximatePages" : 432,
+	"MoreResults" : true,
+	"TotalProducts" : 4313,
+	"Products" : {
+		"Product" : [
+			{
+				"Title" : "Watch_Dogs  (Sony PlayStation 4, 2014)",
+				"DetailsURL" : "http://syicatalogs.ebay.com/ws/eBayISAPI.dll?PageSyiProductDetails&IncludeAttributes=1&ShowAttributesTable=1&ProductMementoString=117495:2:1051:4053673417:660090897:43aa83d8c8f30f2d7d918bdb32c97941:1:1:1:5000054934834",
+				"StockPhotoURL" : "http://i.ebayimg.com/00/z/-foAAOxyHntSXeYz/$T2eC16hHJIEFHS,vbiNZBS(eYyfsIg~~_6.JPG?set_id=89040003C1",
+				"DisplayStockPhotos" : true,
+				"ItemCount" : 0,
+				"ProductID" : [
+					{
+						"Value" : "165763827",
+						"Type" : "Reference"
+					},
+					{
+						"Value" : "3307215732816",
+						"Type" : "UPC"
+					}
+				],
+				"DomainName" : "Video Games",
+				"ItemSpecifics" : {
+					"NameValueList" : [
+						{
+							"Name" : "Genre",
+							"Value" : [
+								"Action, Adventure"
+							]
+						},
+						{
+							"Name" : "Released Year",
+							"Value" : [
+								"2014"
+							]
+						}
+					]
+				},
+				"ReviewCount" : 16,
+				"MinPrice" : {
+					"Value" : 21.99,
+					"CurrencyID" : "USD"
+				}
+			},
+			{
+				"Title" : "Watch Dogs  (Microsoft Xbox One, 2014)",
+				"DetailsURL" : "http://syicatalogs.ebay.com/ws/eBayISAPI.dll?PageSyiProductDetails&IncludeAttributes=1&ShowAttributesTable=1&ProductMementoString=117495:2:1051:3413697551:659654551:6e477cee2560ebda858c8aac67815e67:1:1:1:5000055489863",
+				"StockPhotoURL" : "http://i.ebayimg.com/00/$T2eC16hHJIUFHG19(VvtBSCoMYWFbQ~~_6.JPG?set_id=89040003C1",
+				"DisplayStockPhotos" : true,
+				"ItemCount" : 0,
+				"ProductID" : [
+					{
+						"Value" : "167356941",
+						"Type" : "Reference"
+					},
+					{
+						"Value" : "008888538387",
+						"Type" : "UPC"
+					}
+				],
+				"DomainName" : "Video Games",
+				"ItemSpecifics" : {
+					"NameValueList" : [
+						{
+							"Name" : "Genre",
+							"Value" : [
+								"Action, Adventure"
+							]
+						},
+						{
+							"Name" : "Released Year",
+							"Value" : [
+								"2014"
+							]
+						}
+					]
+				},
+				"ReviewCount" : 7,
+				"MinPrice" : {
+					"Value" : 17.99,
+					"CurrencyID" : "USD"
+				}
+			},
+			{
+				"Title" : "Watch Dogs  (Xbox 360, 2014)",
+				"DetailsURL" : "http://syicatalogs.ebay.com/ws/eBayISAPI.dll?PageSyiProductDetails&IncludeAttributes=1&ShowAttributesTable=1&ProductMementoString=117495:2:1051:2392870362:658672572:cb10a880a66bc7f597d7e6cf7d272a21:1:1:1:5000057761491",
+				"StockPhotoURL" : "http://i.ebayimg.com/00/s/MjY2WDE4NA==/z/n2QAAOSwcnpTmc6M/$_6.JPG?set_id=89040003C1",
+				"DisplayStockPhotos" : true,
+				"ItemCount" : 0,
+				"ProductID" : [
+					{
+						"Value" : "170250112",
+						"Type" : "Reference"
+					},
+					{
+						"Value" : "008888528043",
+						"Type" : "UPC"
+					}
+				],
+				"DomainName" : "Video Games",
+				"ItemSpecifics" : {
+					"NameValueList" : [
+						{
+							"Name" : "Genre",
+							"Value" : [
+								"Action / Adventure"
+							]
+						},
+						{
+							"Name" : "Released Year",
+							"Value" : [
+								"2014"
+							]
+						},
+						{
+							"Name" : "Platform",
+							"Value" : [
+								"Xbox 360"
+							]
+						}
+					]
+				},
+				"ReviewCount" : 5,
+				"MinPrice" : {
+					"Value" : 19.99,
+					"CurrencyID" : "USD"
+				}
+			},
+			{
+				"Title" : "Watch Dogs  (Sony Playstation 3, 2014)",
+				"DetailsURL" : "http://syicatalogs.ebay.com/ws/eBayISAPI.dll?PageSyiProductDetails&IncludeAttributes=1&ShowAttributesTable=1&ProductMementoString=117495:2:1051:2453320025:662304655:7167a578563dc611be686b1d160e3ada:1:1:1:5000056712190",
+				"StockPhotoURL" : "http://i.ebayimg.com/00/s/MjY2WDIyOQ==/z/vVIAAOSw-ndTmdGX/$_6.JPG?set_id=89040003C1",
+				"DisplayStockPhotos" : true,
+				"ItemCount" : 0,
+				"ProductID" : [
+					{
+						"Value" : "170233985",
+						"Type" : "Reference"
+					},
+					{
+						"Value" : "008888348047",
+						"Type" : "UPC"
+					}
+				],
+				"DomainName" : "Video Games",
+				"ItemSpecifics" : {
+					"NameValueList" : [
+						{
+							"Name" : "Genre",
+							"Value" : [
+								"Action / Adventure"
+							]
+						},
+						{
+							"Name" : "Released Year",
+							"Value" : [
+								"2014"
+							]
+						},
+						{
+							"Name" : "Platform",
+							"Value" : [
+								"Sony Playstation 3"
+							]
+						}
+					]
+				},
+				"ReviewCount" : 7,
+				"MinPrice" : {
+					"Value" : 20.0,
+					"CurrencyID" : "USD"
+				}
+			},
+			{
+				"Title" : "The New Classic [PA] by Iggy Azalea (CD, Apr-2014, Def Jam (USA))",
+				"DetailsURL" : "http://syicatalogs.ebay.com/ws/eBayISAPI.dll?PageSyiProductDetails&IncludeAttributes=1&ShowAttributesTable=1&ProductMementoString=117171:2:1052:509668491:667559521:4d1be3fd5a39131bf23434c87d8b3ee7:1:1:1:5000079023375",
+				"StockPhotoURL" : "http://i.ebayimg.com/00/s/NTAwWDUwMA==/z/zBIAAMXQeW5TbL9B/$_6.JPG?set_id=89040003C1",
+				"DisplayStockPhotos" : true,
+				"ItemCount" : 0,
+				"ProductID" : [
+					{
+						"Value" : "191433871",
+						"Type" : "Reference"
+					},
+					{
+						"Value" : "602537416844",
+						"Type" : "UPC"
+					}
+				],
+				"DomainName" : "Music: CDs",
+				"ItemSpecifics" : {
+					"NameValueList" : [
+						{
+							"Name" : "Format",
+							"Value" : [
+								"CD"
+							]
+						},
+						{
+							"Name" : "Primary Artist",
+							"Value" : [
+								"Iggy Azalea"
+							]
+						},
+						{
+							"Name" : "Record Label",
+							"Value" : [
+								"Def Jam (USA)"
+							]
+						},
+						{
+							"Name" : "Release Date",
+							"Value" : [
+								"20140422"
+							]
+						},
+						{
+							"Name" : "Work Name",
+							"Value" : [
+								"The New Classic [PA]"
+							]
+						}
+					]
+				},
+				"ReviewCount" : 1,
+				"MinPrice" : {
+					"Value" : 9.56,
+					"CurrencyID" : "USD"
+				}
+			},
+			{
+				"Title" : "End of Watch (DVD, 2013)",
+				"DetailsURL" : "http://syicatalogs.ebay.com/ws/eBayISAPI.dll?PageSyiProductDetails&IncludeAttributes=1&ShowAttributesTable=1&ProductMementoString=125174:2:1049:3916425155:638247985:a67caf0933794ea93bbffd865b6575e6:1:1:1:5000041504110",
+				"StockPhotoURL" : "http://i.ebayimg.com/00/$T2eC16hHJGoE9nuQhoU0BRH3Mp6fS!~~_6.JPG?set_id=89040003C1",
+				"DisplayStockPhotos" : true,
+				"ItemCount" : 0,
+				"ProductID" : [
+					{
+						"Value" : "141799505",
+						"Type" : "Reference"
+					},
+					{
+						"Value" : "025192157837",
+						"Type" : "UPC"
+					}
+				],
+				"DomainName" : "DVDs",
+				"ItemSpecifics" : {
+					"NameValueList" : [
+						{
+							"Name" : "Movie Rating",
+							"Value" : [
+								"R (MPAA)"
+							]
+						},
+						{
+							"Name" : "Director",
+							"Value" : [
+								"David Ayer"
+							]
+						},
+						{
+							"Name" : "Format",
+							"Value" : [
+								"DVD"
+							]
+						},
+						{
+							"Name" : "Leading Role",
+							"Value" : [
+								"Jake Gyllenhaal",
+								"Michael Pena",
+								"Anna Kendrick",
+								"America Ferrera",
+								"Frank Grillo",
+								"Cody Horn"
+							]
+						},
+						{
+							"Name" : "Work Name",
+							"Value" : [
+								"End of Watch"
+							]
+						}
+					]
+				},
+				"ReviewCount" : 4,
+				"MinPrice" : {
+					"Value" : 0.75,
+					"CurrencyID" : "USD"
+				}
+			},
+			{
+				"Title" : "Watch Dogs: Walmart Edition  (Sony Playstation 3, 2014)",
+				"DetailsURL" : "http://syicatalogs.ebay.com/ws/eBayISAPI.dll?PageSyiProductDetails&IncludeAttributes=1&ShowAttributesTable=1&ProductMementoString=117495:2:1051:3520744689:659306859:8c5b98fc97c84a756cdc7d8571b66ee4:1:1:1:5000080762717",
+				"DisplayStockPhotos" : false,
+				"ItemCount" : 0,
+				"ProductID" : [
+					{
+						"Value" : "195217989",
+						"Type" : "Reference"
+					},
+					{
+						"Value" : "008888348405",
+						"Type" : "UPC"
+					}
+				],
+				"DomainName" : "Video Games",
+				"ItemSpecifics" : {
+					"NameValueList" : [
+						{
+							"Name" : "Genre",
+							"Value" : [
+								"Action, Adventure"
+							]
+						},
+						{
+							"Name" : "Released Year",
+							"Value" : [
+								"2014"
+							]
+						},
+						{
+							"Name" : "Platform",
+							"Value" : [
+								"Sony Playstation 3"
+							]
+						}
+					]
+				},
+				"ReviewCount" : 1,
+				"MinPrice" : {
+					"Value" : 22.49,
+					"CurrencyID" : "USD"
+				}
+			},
+			{
+				"Title" : "Watch Dogs: Walmart Edition  (Xbox 360, 2014)",
+				"DetailsURL" : "http://syicatalogs.ebay.com/ws/eBayISAPI.dll?PageSyiProductDetails&IncludeAttributes=1&ShowAttributesTable=1&ProductMementoString=117495:2:1051:3520744179:659307029:f30298b31550b8f71de5cbe1aa545494:1:1:1:5000080762775",
+				"DisplayStockPhotos" : false,
+				"ItemCount" : 0,
+				"ProductID" : [
+					{
+						"Value" : "195218089",
+						"Type" : "Reference"
+					},
+					{
+						"Value" : "008888528401",
+						"Type" : "UPC"
+					}
+				],
+				"DomainName" : "Video Games",
+				"ItemSpecifics" : {
+					"NameValueList" : [
+						{
+							"Name" : "Genre",
+							"Value" : [
+								"Action, Adventure"
+							]
+						},
+						{
+							"Name" : "Released Year",
+							"Value" : [
+								"2014"
+							]
+						},
+						{
+							"Name" : "Platform",
+							"Value" : [
+								"Xbox 360"
+							]
+						}
+					]
+				},
+				"ReviewCount" : 1,
+				"MinPrice" : {
+					"Value" : 33.99,
+					"CurrencyID" : "USD"
+				}
+			},
+			{
+				"Title" : "The Watch (DVD, 2012)",
+				"DetailsURL" : "http://syicatalogs.ebay.com/ws/eBayISAPI.dll?PageSyiProductDetails&IncludeAttributes=1&ShowAttributesTable=1&ProductMementoString=125174:2:1049:1565454703:564736523:60767d2e142040b461dd3922eca0973c:1:1:1:5000019803861",
+				"StockPhotoURL" : "http://i.ebayimg.com/00/z/ufYAAOxyFjNSTG2I/$(KGrHqR,!lQFJ!WSu!PZBSTG2IER1!~~_6.JPG?set_id=89040003C1",
+				"DisplayStockPhotos" : true,
+				"ItemCount" : 0,
+				"ProductID" : [
+					{
+						"Value" : "129891743",
+						"Type" : "Reference"
+					},
+					{
+						"Value" : "024543814429",
+						"Type" : "UPC"
+					}
+				],
+				"DomainName" : "DVDs",
+				"ItemSpecifics" : {
+					"NameValueList" : [
+						{
+							"Name" : "Movie Rating",
+							"Value" : [
+								"R (MPAA)"
+							]
+						},
+						{
+							"Name" : "Director",
+							"Value" : [
+								"Akiva Schaffer"
+							]
+						},
+						{
+							"Name" : "Format",
+							"Value" : [
+								"DVD"
+							]
+						},
+						{
+							"Name" : "Leading Role",
+							"Value" : [
+								"Ben Stiller",
+								"Vince Vaughn",
+								"Jonah Hill",
+								"Will Forte",
+								"Richard Ayoade",
+								"Rosemarie DeWitt"
+							]
+						},
+						{
+							"Name" : "Work Name",
+							"Value" : [
+								"The Watch"
+							]
+						}
+					]
+				},
+				"ReviewCount" : 9,
+				"MinPrice" : {
+					"Value" : 1.65,
+					"CurrencyID" : "USD"
+				}
+			},
+			{
+				"Title" : "The Watch (Blu-ray Disc, 2012, 2-Disc Set)",
+				"DetailsURL" : "http://syicatalogs.ebay.com/ws/eBayISAPI.dll?PageSyiProductDetails&IncludeAttributes=1&ShowAttributesTable=1&ProductMementoString=125174:2:1049:1565454958:566756628:f72f632d97ff848b2335e6a9d8558eea:1:1:1:5000019803850",
+				"StockPhotoURL" : "http://i.ebayimg.com/00/z/ufYAAOxyFjNSTG2I/$(KGrHqR,!lQFJ!WSu!PZBSTG2IER1!~~_6.JPG?set_id=89040003C1",
+				"DisplayStockPhotos" : true,
+				"ItemCount" : 0,
+				"ProductID" : [
+					{
+						"Value" : "129905648",
+						"Type" : "Reference"
+					},
+					{
+						"Value" : "024543814498",
+						"Type" : "UPC"
+					}
+				],
+				"DomainName" : "DVDs",
+				"ItemSpecifics" : {
+					"NameValueList" : [
+						{
+							"Name" : "Movie Rating",
+							"Value" : [
+								"R (MPAA)"
+							]
+						},
+						{
+							"Name" : "Director",
+							"Value" : [
+								"Akiva Schaffer"
+							]
+						},
+						{
+							"Name" : "Format",
+							"Value" : [
+								"Blu-ray Disc"
+							]
+						},
+						{
+							"Name" : "Leading Role",
+							"Value" : [
+								"Ben Stiller",
+								"Vince Vaughn",
+								"Jonah Hill",
+								"Will Forte",
+								"Richard Ayoade",
+								"Rosemarie DeWitt"
+							]
+						},
+						{
+							"Name" : "Work Name",
+							"Value" : [
+								"The Watch"
+							]
+						}
+					]
+				},
+				"ReviewCount" : 4,
+				"MinPrice" : {
+					"Value" : 4.89,
+					"CurrencyID" : "USD"
+				}
+			}
+		]
+	},
+	"ProductSearchURL" : "http://search.half.ebay.com/watch"
+}

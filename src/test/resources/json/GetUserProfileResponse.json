@@ -1,0 +1,22 @@
+{
+	"Timestamp" : "2014-10-25T00:40:02.553Z",
+	"Ack" : "Success",
+	"Build" : "E889_CORE_APILW_17041759_R1",
+	"Version" : "889",
+	"CorrelationID" : "getUserProfileTest",
+	"User" : {
+		"UserID" : "yhtak",
+		"FeedbackPrivate" : false,
+		"FeedbackRatingStar" : "Green",
+		"FeedbackScore" : 8920,
+		"NewUser" : false,
+		"RegistrationDate" : "1998-08-16T16:36:50.000Z",
+		"RegistrationSite" : "US",
+		"Status" : "Confirmed",
+		"SellerBusinessType" : "Private",
+		"SellerItemsURL" : "http://search.ebay.com/?sass=yhtak&amp;ht=-1",
+		"FeedbackDetailsURL" : "http://feedback.ebay.com/ws/eBayISAPI.dll?ViewFeedback&userid=yhtak&ssPageName=STRK:ME:UFS",
+		"PositiveFeedbackPercent" : 99.9,
+		"TopRatedSeller" : true
+	}
+}

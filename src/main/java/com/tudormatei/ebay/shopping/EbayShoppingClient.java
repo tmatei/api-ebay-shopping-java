@@ -9,6 +9,8 @@ import com.tudormatei.ebay.shopping.api.ShoppingApi;
 import com.tudormatei.ebay.shopping.deserializer.DurationDeserializer;
 import retrofit.RequestInterceptor;
 import retrofit.RestAdapter;
+import retrofit.RestAdapter.LogLevel;
+import retrofit.converter.Converter;
 import retrofit.converter.JacksonConverter;
 
 import java.time.Duration;
@@ -21,28 +23,34 @@ public class EbayShoppingClient {
 
     protected final String appId;
     protected final String version;
+    protected final String uri;
     protected final int siteId;
+    protected final boolean failOnUnknownProperties;
 
-    RestAdapter restAdapter;
+    protected final RestAdapter restAdapter;
 
     public EbayShoppingClient(final String appId) {
-        this(appId, true, DEFAULT_VERSION, DEFAULT_SITE_ID, true);
+        this(appId, true, DEFAULT_VERSION, DEFAULT_SITE_ID, LogLevel.NONE, true);
     }
 
-    public EbayShoppingClient(final String appId, final boolean production) {
-        this(appId, production, DEFAULT_VERSION, DEFAULT_SITE_ID, true);
+    public EbayShoppingClient(final String appId, final boolean isProduction) {
+        this(appId, isProduction, DEFAULT_VERSION, DEFAULT_SITE_ID, LogLevel.NONE, true);
     }
 
-    public EbayShoppingClient(final String appId, final boolean production, final String version, final int siteId,
-                              final boolean failOnUnknownProperties) {
+
+    public EbayShoppingClient(final String appId, final boolean isProduction, LogLevel logLevel) {
+        this(appId, isProduction, DEFAULT_VERSION, DEFAULT_SITE_ID, logLevel, true);
+    }
+
+    public EbayShoppingClient(final String appId, final boolean isProduction, final String version, final int siteId,
+                              final LogLevel logLevel, final boolean failOnUnknownProperties) {
 
         // set the variables
         this.appId = appId;
         this.version = version;
         this.siteId = siteId;
-
-        // set the uri
-        String uri = production ? "http://open.api.ebay.com" : "http://open.api.sandbox.ebay.com";
+        this.uri = isProduction ? "http://open.api.ebay.com" : "http://open.api.sandbox.ebay.com";
+        this.failOnUnknownProperties = failOnUnknownProperties;
 
         // set up the request interceptor to add headers to all requests
         RequestInterceptor requestInterceptor = new RequestInterceptor() {
@@ -56,6 +64,17 @@ public class EbayShoppingClient {
             }
         };
 
+        // Build the Retrofit REST adaptor pointing to the URL specified
+        restAdapter = new RestAdapter.Builder()
+                .setLogLevel(logLevel)
+                .setRequestInterceptor(requestInterceptor)
+                .setConverter(getConverter())
+                .setEndpoint(uri)
+                .build();
+
+    }
+
+    public Converter getConverter() {
         ObjectMapper mapper = new ObjectMapper();
         mapper.setSerializationInclusion(JsonInclude.Include.NON_NULL);
         mapper.setPropertyNamingStrategy(new PropertyNamingStrategy.PascalCaseStrategy());
@@ -67,14 +86,7 @@ public class EbayShoppingClient {
         module.addDeserializer(Duration.class, new DurationDeserializer());
         mapper.registerModule(module);
 
-        // Build the Retrofit REST adaptor pointing to the URL specified
-        restAdapter = new RestAdapter.Builder()
-            .setLogLevel(RestAdapter.LogLevel.FULL)
-            .setRequestInterceptor(requestInterceptor)
-            .setConverter(new JacksonConverter(mapper))
-            .setEndpoint(uri)
-            .build();
-
+        return new JacksonConverter(mapper);
     }
 
     public RestAdapter getRestAdapter() {

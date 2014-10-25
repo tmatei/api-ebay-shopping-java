@@ -1,0 +1,23 @@
+{
+	"Timestamp" : "2014-10-25T00:07:39.195Z",
+	"Ack" : "Success",
+	"Build" : "E889_CORE_APILW_17041759_R1",
+	"Version" : "889",
+	"CorrelationID" : "getCategoryInfoTest",
+	"CategoryArray" : {
+		"Category" : [
+			{
+				"CategoryID" : "14324",
+				"CategoryLevel" : 2,
+				"CategoryName" : "Watches",
+				"CategoryParentID" : "281",
+				"CategoryNamePath" : "Jewelry & Watches:Watches",
+				"CategoryIDPath" : "281:14324",
+				"LeafCategory" : false
+			}
+		]
+	},
+	"CategoryCount" : 1,
+	"UpdateTime" : "2014-09-23T03:55:47.000Z",
+	"CategoryVersion" : "110"
+}

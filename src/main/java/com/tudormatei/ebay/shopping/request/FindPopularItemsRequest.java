@@ -10,7 +10,17 @@ public class FindPopularItemsRequest extends AbstractRequest {
 
     protected List<String> CategoryIDExclude;
 
-    protected int MaxEntries;
+    protected Integer MaxEntries;
+
+    protected String MessageID;
+
+    public String getMessageID() {
+        return MessageID;
+    }
+
+    public void setMessageID(String messageID) {
+        MessageID = messageID;
+    }
 
     public List<String> getCategoryID() {
         return CategoryID;
@@ -36,7 +46,7 @@ public class FindPopularItemsRequest extends AbstractRequest {
         CategoryIDExclude = categoryIDExclude;
     }
 
-    public int getMaxEntries() {
+    public Integer getMaxEntries() {
         return MaxEntries;
     }
 

@@ -1,0 +1,76 @@
+{
+	"Timestamp" : "2014-10-25T00:21:20.650Z",
+	"Ack" : "Success",
+	"Build" : "E889_CORE_APILW_17041759_R1",
+	"Version" : "889",
+	"CorrelationID" : "getMultipleItemsTest",
+	"Item" : [
+		{
+			"ItemID" : "310793437641",
+			"EndTime" : "2014-11-07T02:11:41.000Z",
+			"ViewItemURLForNaturalSearch" : "http://www.ebay.com/itm/New-Luxury-Sport-Military-Quartz-Dial-Clock-Men-Stainless-Steel-Wrist-Watch-US-/310793437641",
+			"ListingType" : "FixedPriceItem",
+			"Location" : "Mountainside, New Jersey",
+			"GalleryURL" : "http://thumbs2.ebaystatic.com/pict/3107934376418080_1.jpg",
+			"PictureURL" : [
+				"http://i.ebayimg.com/00/s/ODAwWDgwMA==/z/V-oAAOxydINSZdsa/$(KGrHqJ,!nwFJOm()3JLBSZdsZkHkw~~60_12.JPG?set_id=880000500F",
+				"http://i.ebayimg.com/00/s/ODAwWDgwMA==/z/~eQAAOxy2HFSZdsg/$(KGrHqEOKpIFJdBE4R(zBSZdsf6rqg~~60_12.JPG?set_id=880000500F",
+				"http://i.ebayimg.com/00/s/ODAwWDgwMA==/z/vE4AAOxy-sRSZdsn/$(KGrHqZHJFUFJ,zr-uuwBSZdsn,ni!~~60_12.JPG?set_id=880000500F",
+				"http://i.ebayimg.com/00/s/ODAwWDgwMA==/z/VAkAAOxy1RZSZdst/$T2eC16Z,!ywFI5ZO7pC3BSZdss(ljw~~60_12.JPG?set_id=880000500F",
+				"http://i.ebayimg.com/00/s/ODAwWDgwMA==/z/yG0AAOxyoahSZdsx/$T2eC16h,!)oFIeK7Zd76BSZdswpfD!~~60_12.JPG?set_id=880000500F",
+				"http://i.ebayimg.com/00/s/ODAwWDgwMA==/z/z3YAAOxyTyBSZds4/$T2eC16VHJHYFFkP1fOBJBSZds3l,o!~~60_12.JPG?set_id=880000500F",
+				"http://i.ebayimg.com/00/s/ODAwWDgwMA==/z/VIQAAOxy1RZSZds8/$(KGrHqZHJCoFJkmieS(PBSZds78R7Q~~60_12.JPG?set_id=880000500F",
+				"http://i.ebayimg.com/00/s/ODAwWDgwMA==/z/eOIAAOxyONBSZdtD/$T2eC16RHJF0FFZ0TG7ojBSZdtCfQdQ~~60_12.JPG?set_id=880000500F",
+				"http://i.ebayimg.com/00/s/ODAwWDgwMA==/z/zkUAAOxy86RSZdtI/$T2eC16R,!ygFIi40UVzyBSZdtH8kGQ~~60_12.JPG?set_id=880000500F",
+				"http://i.ebayimg.com/00/s/ODAwWDgwMA==/z/wO8AAOxyYTRSZdtM/$(KGrHqJ,!loFErfs0ZojBSZdtL84w!~~60_12.JPG?set_id=880000500F"
+			],
+			"PrimaryCategoryID" : "31387",
+			"PrimaryCategoryName" : "Jewelry & Watches:Watches:Wristwatches",
+			"BidCount" : 0,
+			"ConvertedCurrentPrice" : {
+				"Value" : 12.89,
+				"CurrencyID" : "USD"
+			},
+			"ListingStatus" : "Active",
+			"TimeLeft" : "P13DT1H50M21S",
+			"Title" : "New Luxury Sport Military Quartz Dial Clock Men Stainless Steel Wrist  Watch US",
+			"Country" : "US",
+			"AutoPay" : false,
+			"ConditionID" : 1000,
+			"ConditionDisplayName" : "New with tags",
+			"QuantityAvailableHint" : "MoreThan",
+			"QuantityThreshold" : 10
+		},
+		{
+			"ItemID" : "221291285284",
+			"EndTime" : "2014-11-24T00:15:49.000Z",
+			"ViewItemURLForNaturalSearch" : "http://www.ebay.com/itm/NEW-MICHAEL-KORS-SPECIAL-EDITION-RUNWAY-GOLD-TONE-CHRONO-WOMENS-WATCH-MK5683-C-/221291285284",
+			"ListingType" : "FixedPriceItem",
+			"Location" : "07010",
+			"GalleryURL" : "http://thumbs1.ebaystatic.com/pict/2212912852848080_1.jpg",
+			"PictureURL" : [
+				"http://i.ebayimg.com/00/s/NjAwWDYwMA==/z/Z1UAAOxyfSpSSMF6/$T2eC16V,!)kFIeYKgY6oBSSMF6,+Dg~~60_1.JPG?set_id=880000500F",
+				"http://i.ebayimg.com/00/s/MTIwMFgxNjAw/z/xvMAAOxyaqlSSMJV/$(KGrHqF,!nsFIs0ciZhZBSSMJUtNig~~60_1.JPG?set_id=880000500F",
+				"http://i.ebayimg.com/00/s/MTIwMFgxNjAw/z/P0cAAOxyAZ9SSMJk/$(KGrHqN,!nsFItNGZHN+BSSMJkbMSw~~60_1.JPG?set_id=880000500F",
+				"http://i.ebayimg.com/00/s/MTIwMFgxNjAw/z/gU8AAOxySy9SSMJz/$T2eC16Z,!zIFIeFC4VwBBSSMJyo2!Q~~60_1.JPG?set_id=880000500F",
+				"http://i.ebayimg.com/00/s/MTIwMFgxNjAw/z/xf4AAOxy0QBSSMKB/$(KGrHqV,!qsFI+Jted0OBSSMKBLUw!~~60_1.JPG?set_id=880000500F",
+				"http://i.ebayimg.com/00/s/MTIwMFgxNjAw/z/gkQAAOxySy9SSMKQ/$(KGrHqN,!lcFI3IdJmG8BSSMKQNW4Q~~60_1.JPG?set_id=880000500F"
+			],
+			"PrimaryCategoryID" : "31387",
+			"PrimaryCategoryName" : "Jewelry & Watches:Watches:Wristwatches",
+			"BidCount" : 0,
+			"ConvertedCurrentPrice" : {
+				"Value" : 220.0,
+				"CurrencyID" : "USD"
+			},
+			"ListingStatus" : "Active",
+			"TimeLeft" : "P29DT23H54M29S",
+			"Title" : "NEW MICHAEL KORS SPECIAL EDITION RUNWAY GOLD-TONE CHRONO WOMENS WATCH MK5683 C",
+			"Country" : "US",
+			"AutoPay" : true,
+			"ConditionID" : 1000,
+			"ConditionDisplayName" : "New with tags",
+			"GlobalShipping" : true
+		}
+	]
+}

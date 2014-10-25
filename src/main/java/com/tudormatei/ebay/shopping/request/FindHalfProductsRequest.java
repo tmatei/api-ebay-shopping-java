@@ -10,7 +10,7 @@ public class FindHalfProductsRequest extends AbstractRequest {
 
     protected String IncludeSelector;
 
-    protected boolean AvailableItemsOnly;
+    protected Boolean AvailableItemsOnly;
 
     protected List<String> DomainName;
 
@@ -24,9 +24,9 @@ public class FindHalfProductsRequest extends AbstractRequest {
 
     protected List<SortOrderEnumType> SortOrder;
 
-    protected int MaxEntries;
+    protected Integer MaxEntries;
 
-    protected int PageNumber;
+    protected Integer PageNumber;
 
     public String getIncludeSelector() {
         return IncludeSelector;
@@ -36,7 +36,7 @@ public class FindHalfProductsRequest extends AbstractRequest {
         IncludeSelector = includeSelector;
     }
 
-    public boolean getAvailableItemsOnly() {
+    public Boolean getAvailableItemsOnly() {
         return AvailableItemsOnly;
     }
 
@@ -92,7 +92,7 @@ public class FindHalfProductsRequest extends AbstractRequest {
         SortOrder = sortOrder;
     }
 
-    public int getMaxEntries() {
+    public Integer getMaxEntries() {
         return MaxEntries;
     }
 
@@ -100,7 +100,7 @@ public class FindHalfProductsRequest extends AbstractRequest {
         MaxEntries = maxEntries;
     }
 
-    public int getPageNumber() {
+    public Integer getPageNumber() {
         return PageNumber;
     }
 

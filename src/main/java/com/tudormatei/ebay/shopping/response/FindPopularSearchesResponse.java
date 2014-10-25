@@ -2,19 +2,21 @@ package com.tudormatei.ebay.shopping.response;
 
 import com.tudormatei.ebay.shopping.type.PopularSearchesType;
 
+import java.util.List;
+
 public class FindPopularSearchesResponse extends AbstractResponse {
 
-    protected PopularSearchesType PopularSearchResult;
+    protected List<PopularSearchesType> PopularSearchResult;
 
     protected int PageNumber;
 
     protected int TotalPages;
 
-    public PopularSearchesType getPopularSearchResult() {
+    public List<PopularSearchesType> getPopularSearchResult() {
         return PopularSearchResult;
     }
 
-    public void setPopularSearchResult(PopularSearchesType popularSearchResult) {
+    public void setPopularSearchResult(List<PopularSearchesType> popularSearchResult) {
         PopularSearchResult = popularSearchResult;
     }
 

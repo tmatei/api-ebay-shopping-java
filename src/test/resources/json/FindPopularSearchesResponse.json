@@ -1,0 +1,14 @@
+{
+	"Timestamp" : "2014-10-24T23:43:23.580Z",
+	"Ack" : "Success",
+	"Build" : "E885_CORE_APILW2_16993394_R1",
+	"Version" : "885",
+	"CorrelationID" : "findPopularSearchesTest",
+	"PopularSearchResult" : [
+		{
+			"QueryKeywords" : "watch",
+			"AlternativeSearches" : "mens watches;womens watches;led watch;bracelet;digital watch;ring",
+			"RelatedSearches" : "necklace;watch casio;earrings;watch diesel;pocket watch;watch phone;rolex;watch invicta;casio;watch shark;vintage watch;watch gold;g shock;mens sport watches"
+		}
+	]
+}

@@ -1,0 +1,319 @@
+{
+	"Timestamp" : "2014-10-24T23:31:20.317Z",
+	"Ack" : "Success",
+	"Build" : "E885_CORE_APILW2_16993394_R1",
+	"Version" : "885",
+	"CorrelationID" : "findPopularItemsTest",
+	"ItemArray" : {
+		"Item" : [
+			{
+				"ItemID" : "261073697746",
+				"EndTime" : "2014-11-14T01:46:44.000Z",
+				"ViewItemURLForNaturalSearch" : "http://www.ebay.com/itm/Classic-Mens-Gold-Dial-Skeleton-Black-Leather-Mechanical-Sport-Army-Wrist-Watch-/261073697746",
+				"ListingType" : "FixedPriceItem",
+				"GalleryURL" : "http://thumbs3.ebaystatic.com/pict/2610736977468080_5.jpg",
+				"PrimaryCategoryID" : "31387",
+				"PrimaryCategoryName" : "Jewelry & Watches:Watches:Wristwatches",
+				"BidCount" : 20377,
+				"ConvertedCurrentPrice" : {
+					"Value" : 13.55,
+					"CurrencyID" : "USD"
+				},
+				"ListingStatus" : "Active",
+				"TimeLeft" : "P20DT2H15M24S",
+				"Title" : "Classic Men's Gold Dial Skeleton Black Leather Mechanical Sport Army Wrist Watch",
+				"ShippingCostSummary" : {
+					"ShippingServiceCost" : {
+						"Value" : 0.0,
+						"CurrencyID" : "USD"
+					},
+					"ShippingType" : "Flat",
+					"ListedShippingServiceCost" : {
+						"Value" : 0.0,
+						"CurrencyID" : "USD"
+					}
+				},
+				"WatchCount" : 13610
+			},
+			{
+				"ItemID" : "350753859316",
+				"EndTime" : "2014-11-19T06:20:22.000Z",
+				"ViewItemURLForNaturalSearch" : "http://www.ebay.com/itm/Mens-3D-Shark-Digital-LED-Date-Analog-Big-Face-Sport-Alarm-Quartz-Wrist-Watch-/350753859316?var=620129806821",
+				"ListingType" : "FixedPriceItem",
+				"GalleryURL" : "http://thumbs1.ebaystatic.com/pict/350753859316808000000024_5.jpg",
+				"PrimaryCategoryID" : "31387",
+				"PrimaryCategoryName" : "Jewelry & Watches:Watches:Wristwatches",
+				"BidCount" : 3962,
+				"ConvertedCurrentPrice" : {
+					"Value" : 28.99,
+					"CurrencyID" : "USD"
+				},
+				"ListingStatus" : "Active",
+				"TimeLeft" : "P25DT6H49M2S",
+				"Title" : "Mens 3D Shark Digital LED Date Analog Big Face Sport Alarm Quartz Wrist Watch",
+				"ShippingCostSummary" : {
+					"ShippingServiceCost" : {
+						"Value" : 0.0,
+						"CurrencyID" : "USD"
+					},
+					"ShippingType" : "Flat",
+					"ListedShippingServiceCost" : {
+						"Value" : 0.0,
+						"CurrencyID" : "USD"
+					}
+				},
+				"WatchCount" : 3718
+			},
+			{
+				"ItemID" : "360880355531",
+				"EndTime" : "2014-11-07T17:45:06.000Z",
+				"ViewItemURLForNaturalSearch" : "http://www.ebay.com/itm/Sony-SmartWatch-2-SW2-Genuine-Bluetooth-Android-Cell-Phone-Watch-W-Strap-/360880355531",
+				"ListingType" : "FixedPriceItem",
+				"GalleryURL" : "http://thumbs4.ebaystatic.com/pict/3608803555318080_7.jpg",
+				"PrimaryCategoryID" : "178893",
+				"PrimaryCategoryName" : "Cell Phones & Accessories:Smart Watches",
+				"BidCount" : 1695,
+				"ConvertedCurrentPrice" : {
+					"Value" : 139.99,
+					"CurrencyID" : "USD"
+				},
+				"ListingStatus" : "Active",
+				"TimeLeft" : "P13DT18H13M46S",
+				"Title" : "Sony SmartWatch 2 SW2 Genuine Bluetooth For Android Cell Phone Watch W/ Strap",
+				"ShippingCostSummary" : {
+					"ShippingServiceCost" : {
+						"Value" : 0.0,
+						"CurrencyID" : "USD"
+					},
+					"ShippingType" : "FlatDomesticCalculatedInternational",
+					"ListedShippingServiceCost" : {
+						"Value" : 0.0,
+						"CurrencyID" : "USD"
+					}
+				},
+				"WatchCount" : 3659,
+				"DiscountPriceInfo" : {
+					"OriginalRetailPrice" : {
+						"Value" : 199.99,
+						"CurrencyID" : "USD"
+					},
+					"PricingTreatment" : "STP",
+					"SoldOneBay" : false,
+					"SoldOffeBay" : false
+				}
+			},
+			{
+				"ItemID" : "190717983923",
+				"EndTime" : "2014-11-12T06:02:08.000Z",
+				"ViewItemURLForNaturalSearch" : "http://www.ebay.com/itm/SHARK-LUXURY-MENS-ARMY-LCD-DUAL-DISPLAY-ALARM-CHRONOGRAPH-SPORT-WRIST-WATCH-/190717983923",
+				"ListingType" : "FixedPriceItem",
+				"GalleryURL" : "http://thumbs4.ebaystatic.com/pict/1907179839238080_4.jpg",
+				"PrimaryCategoryID" : "31387",
+				"PrimaryCategoryName" : "Jewelry & Watches:Watches:Wristwatches",
+				"BidCount" : 6358,
+				"ConvertedCurrentPrice" : {
+					"Value" : 18.99,
+					"CurrencyID" : "USD"
+				},
+				"ListingStatus" : "Active",
+				"TimeLeft" : "P18DT6H30M48S",
+				"Title" : "SHARK LUXURY MENS ARMY LCD DUAL DISPLAY ALARM CHRONOGRAPH SPORT WRIST WATCH ",
+				"ShippingCostSummary" : {
+					"ShippingServiceCost" : {
+						"Value" : 0.0,
+						"CurrencyID" : "USD"
+					},
+					"ShippingType" : "Flat",
+					"ListedShippingServiceCost" : {
+						"Value" : 0.0,
+						"CurrencyID" : "USD"
+					}
+				},
+				"WatchCount" : 3561
+			},
+			{
+				"ItemID" : "330917656066",
+				"EndTime" : "2014-11-23T20:59:50.000Z",
+				"ViewItemURLForNaturalSearch" : "http://www.ebay.com/itm/Invicta-1774-Mens-Pro-Diver-Gold-Tone-Stainless-Steel-Chronograph-Dive-Watch-/330917656066",
+				"ListingType" : "FixedPriceItem",
+				"GalleryURL" : "http://thumbs3.ebaystatic.com/pict/3309176560668080_28.jpg",
+				"PrimaryCategoryID" : "31387",
+				"PrimaryCategoryName" : "Jewelry & Watches:Watches:Wristwatches",
+				"BidCount" : 2547,
+				"ConvertedCurrentPrice" : {
+					"Value" : 84.94,
+					"CurrencyID" : "USD"
+				},
+				"ListingStatus" : "Active",
+				"TimeLeft" : "P29DT21H28M30S",
+				"Title" : "Invicta 1774 Men's Pro Diver Gold Tone Stainless Steel Chronograph Dive Watch",
+				"ShippingCostSummary" : {
+					"ShippingServiceCost" : {
+						"Value" : 0.0,
+						"CurrencyID" : "USD"
+					},
+					"ShippingType" : "Flat",
+					"ListedShippingServiceCost" : {
+						"Value" : 0.0,
+						"CurrencyID" : "USD"
+					}
+				},
+				"WatchCount" : 3555,
+				"DiscountPriceInfo" : {
+					"OriginalRetailPrice" : {
+						"Value" : 695.0,
+						"CurrencyID" : "USD"
+					},
+					"PricingTreatment" : "STP",
+					"SoldOneBay" : false,
+					"SoldOffeBay" : false
+				}
+			},
+			{
+				"ItemID" : "130894469276",
+				"EndTime" : "2014-11-13T16:53:03.000Z",
+				"ViewItemURLForNaturalSearch" : "http://www.ebay.com/itm/Fashion-Mens-Touch-Screen-Circular-Pattern-Silicone-LED-Sport-Wrist-Watch-Black-/130894469276",
+				"ListingType" : "FixedPriceItem",
+				"GalleryURL" : "http://thumbs1.ebaystatic.com/pict/1308944692768080_5.jpg",
+				"PrimaryCategoryID" : "31387",
+				"PrimaryCategoryName" : "Jewelry & Watches:Watches:Wristwatches",
+				"BidCount" : 7616,
+				"ConvertedCurrentPrice" : {
+					"Value" : 7.19,
+					"CurrencyID" : "USD"
+				},
+				"ListingStatus" : "Active",
+				"TimeLeft" : "P19DT17H21M43S",
+				"Title" : "Fashion Men's Touch Screen Circular Pattern Silicone LED Sport Wrist Watch Black",
+				"ShippingCostSummary" : {
+					"ShippingServiceCost" : {
+						"Value" : 0.0,
+						"CurrencyID" : "USD"
+					},
+					"ShippingType" : "Flat",
+					"ListedShippingServiceCost" : {
+						"Value" : 0.0,
+						"CurrencyID" : "USD"
+					}
+				},
+				"WatchCount" : 3323
+			},
+			{
+				"ItemID" : "400482917352",
+				"EndTime" : "2014-10-29T07:46:37.000Z",
+				"ViewItemURLForNaturalSearch" : "http://www.ebay.com/itm/Oulm-Luxury-Sport-Military-Quartz-Dial-Clock-Men-Stainless-Steel-Wrist-Watch-/400482917352",
+				"ListingType" : "FixedPriceItem",
+				"GalleryURL" : "http://thumbs1.ebaystatic.com/pict/4004829173528080_18.jpg",
+				"PrimaryCategoryID" : "31387",
+				"PrimaryCategoryName" : "Jewelry & Watches:Watches:Wristwatches",
+				"BidCount" : 6845,
+				"ConvertedCurrentPrice" : {
+					"Value" : 10.89,
+					"CurrencyID" : "USD"
+				},
+				"ListingStatus" : "Active",
+				"TimeLeft" : "P4DT8H15M17S",
+				"Title" : "Oulm Luxury Sport Military Quartz Dial Clock Men Stainless Steel Wrist Watch",
+				"ShippingCostSummary" : {
+					"ShippingServiceCost" : {
+						"Value" : 0.0,
+						"CurrencyID" : "USD"
+					},
+					"ShippingType" : "Flat",
+					"ListedShippingServiceCost" : {
+						"Value" : 0.0,
+						"CurrencyID" : "USD"
+					}
+				},
+				"WatchCount" : 3240
+			},
+			{
+				"ItemID" : "281013260030",
+				"EndTime" : "2014-11-19T09:23:22.000Z",
+				"ViewItemURLForNaturalSearch" : "http://www.ebay.com/itm/OHSEN-Black-Digital-LCD-Alarm-Date-Mens-Military-Sport-Rubber-Quartz-Wrist-Watch-/281013260030",
+				"ListingType" : "FixedPriceItem",
+				"GalleryURL" : "http://thumbs3.ebaystatic.com/pict/2810132600308080_7.jpg",
+				"PrimaryCategoryID" : "31387",
+				"PrimaryCategoryName" : "Jewelry & Watches:Watches:Wristwatches",
+				"BidCount" : 6982,
+				"ConvertedCurrentPrice" : {
+					"Value" : 9.99,
+					"CurrencyID" : "USD"
+				},
+				"ListingStatus" : "Active",
+				"TimeLeft" : "P25DT9H52M2S",
+				"Title" : "OHSEN Black Digital LCD Alarm Date Mens Military Sport Rubber Quartz Wrist Watch",
+				"ShippingCostSummary" : {
+					"ShippingServiceCost" : {
+						"Value" : 0.0,
+						"CurrencyID" : "USD"
+					},
+					"ShippingType" : "Flat",
+					"ListedShippingServiceCost" : {
+						"Value" : 0.0,
+						"CurrencyID" : "USD"
+					}
+				},
+				"WatchCount" : 3078
+			},
+			{
+				"ItemID" : "300881654762",
+				"EndTime" : "2014-11-17T05:08:45.000Z",
+				"ViewItemURLForNaturalSearch" : "http://www.ebay.com/itm/STEAMPUNK-New-Mens-Swiss-Design-Mens-Silver-Skeleton-Mans-Mechanical-Watch-/300881654762",
+				"ListingType" : "FixedPriceItem",
+				"GalleryURL" : "http://thumbs3.ebaystatic.com/pict/3008816547628080_26.jpg",
+				"PrimaryCategoryID" : "31387",
+				"PrimaryCategoryName" : "Jewelry & Watches:Watches:Wristwatches",
+				"BidCount" : 3911,
+				"ConvertedCurrentPrice" : {
+					"Value" : 16.99,
+					"CurrencyID" : "USD"
+				},
+				"ListingStatus" : "Active",
+				"TimeLeft" : "P23DT5H37M25S",
+				"Title" : "STEAMPUNK New Mens Swiss Design Men's Silver Skeleton Man's Mechanical Watch",
+				"ShippingCostSummary" : {
+					"ShippingServiceCost" : {
+						"Value" : 0.0,
+						"CurrencyID" : "USD"
+					},
+					"ShippingType" : "Flat",
+					"ListedShippingServiceCost" : {
+						"Value" : 0.0,
+						"CurrencyID" : "USD"
+					}
+				},
+				"WatchCount" : 2621
+			},
+			{
+				"ItemID" : "141149395386",
+				"EndTime" : "2014-11-20T13:22:51.000Z",
+				"ViewItemURLForNaturalSearch" : "http://www.ebay.com/itm/Genuine-Shark-Men-Big-Case-Black-Dail-Digital-LED-Date-Day-Quartz-Sport-Watch-/141149395386",
+				"ListingType" : "FixedPriceItem",
+				"GalleryURL" : "http://thumbs3.ebaystatic.com/pict/1411493953868080_1.jpg",
+				"PrimaryCategoryID" : "31387",
+				"PrimaryCategoryName" : "Jewelry & Watches:Watches:Wristwatches",
+				"BidCount" : 3080,
+				"ConvertedCurrentPrice" : {
+					"Value" : 28.99,
+					"CurrencyID" : "USD"
+				},
+				"ListingStatus" : "Active",
+				"TimeLeft" : "P26DT13H51M31S",
+				"Title" : "Genuine Shark Men Big Case Black Dail Digital LED Date Day Quartz Sport Watch",
+				"ShippingCostSummary" : {
+					"ShippingServiceCost" : {
+						"Value" : 0.0,
+						"CurrencyID" : "USD"
+					},
+					"ShippingType" : "Flat",
+					"ListedShippingServiceCost" : {
+						"Value" : 0.0,
+						"CurrencyID" : "USD"
+					}
+				},
+				"WatchCount" : 2552
+			}
+		]
+	}
+}

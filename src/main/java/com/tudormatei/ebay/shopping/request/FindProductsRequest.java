@@ -10,7 +10,7 @@ public class FindProductsRequest extends AbstractRequest {
 
     protected String IncludeSelector;
 
-    protected boolean AvailableItemsOnly;
+    protected Boolean AvailableItemsOnly;
 
     protected List<String> DomainName;
 
@@ -22,13 +22,13 @@ public class FindProductsRequest extends AbstractRequest {
 
     protected List<SortOrderEnumType> SortOrder;
 
-    protected int MaxEntries;
+    protected Integer MaxEntries;
 
-    protected int PageNumber;
+    protected Integer PageNumber;
 
     protected String CategoryID;
 
-    protected boolean HideDuplicateItems;
+    protected Boolean HideDuplicateItems;
 
     public String getIncludeSelector() {
         return IncludeSelector;
@@ -38,7 +38,7 @@ public class FindProductsRequest extends AbstractRequest {
         IncludeSelector = includeSelector;
     }
 
-    public boolean getAvailableItemsOnly() {
+    public Boolean getAvailableItemsOnly() {
         return AvailableItemsOnly;
     }
 
@@ -86,7 +86,7 @@ public class FindProductsRequest extends AbstractRequest {
         SortOrder = sortOrder;
     }
 
-    public int getMaxEntries() {
+    public Integer getMaxEntries() {
         return MaxEntries;
     }
 
@@ -94,7 +94,7 @@ public class FindProductsRequest extends AbstractRequest {
         MaxEntries = maxEntries;
     }
 
-    public int getPageNumber() {
+    public Integer getPageNumber() {
         return PageNumber;
     }
 
@@ -110,7 +110,7 @@ public class FindProductsRequest extends AbstractRequest {
         CategoryID = categoryID;
     }
 
-    public boolean getHideDuplicateItems() {
+    public Boolean getHideDuplicateItems() {
         return HideDuplicateItems;
     }
 

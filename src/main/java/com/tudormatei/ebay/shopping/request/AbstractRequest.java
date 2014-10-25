@@ -25,7 +25,7 @@ public abstract class AbstractRequest {
         Map<String, String> map = new LinkedHashMap<String, String>();
         Class cls = getClass();
 
-        while(!cls.equals(AbstractRequest.class)) {
+        while(!cls.equals(Object.class)) {
             for (Field field : cls.getDeclaredFields()) {
                 try {
                     boolean inaccessible = false;

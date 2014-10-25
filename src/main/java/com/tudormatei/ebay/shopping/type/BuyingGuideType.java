@@ -1,12 +1,15 @@
 package com.tudormatei.ebay.shopping.type;
 
+import com.fasterxml.jackson.annotation.JsonProperty;
+
 import java.util.Date;
 
 public class BuyingGuideType {
 
     protected String Name;
 
-    protected String URL;
+    @JsonProperty("URL")
+    protected String Url;
 
     protected String CategoryID;
 
@@ -26,12 +29,12 @@ public class BuyingGuideType {
         Name = name;
     }
 
-    public String getURL() {
-        return URL;
+    public String getUrl() {
+        return Url;
     }
 
-    public void setURL(String URL) {
-        this.URL = URL;
+    public void setUrl(String Url) {
+        this.Url = Url;
     }
 
     public String getCategoryID() {

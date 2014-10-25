@@ -8,13 +8,13 @@ public class FindPopularSearchesRequest extends AbstractRequest {
 
     protected String QueryKeywords;
 
-    protected int MaxKeywords;
+    protected Integer MaxKeywords;
 
-    protected int MaxResultsPerPage;
+    protected Integer MaxResultsPerPage;
 
-    protected int PageNumber;
+    protected Integer PageNumber;
 
-    protected boolean IncludeChildCategories;
+    protected Boolean IncludeChildCategories;
 
     public List<String> getCategoryID() {
         return CategoryID;
@@ -32,7 +32,7 @@ public class FindPopularSearchesRequest extends AbstractRequest {
         QueryKeywords = queryKeywords;
     }
 
-    public int getMaxKeywords() {
+    public Integer getMaxKeywords() {
         return MaxKeywords;
     }
 
@@ -40,7 +40,7 @@ public class FindPopularSearchesRequest extends AbstractRequest {
         MaxKeywords = maxKeywords;
     }
 
-    public int getMaxResultsPerPage() {
+    public Integer getMaxResultsPerPage() {
         return MaxResultsPerPage;
     }
 
@@ -48,7 +48,7 @@ public class FindPopularSearchesRequest extends AbstractRequest {
         MaxResultsPerPage = maxResultsPerPage;
     }
 
-    public int getPageNumber() {
+    public Integer getPageNumber() {
         return PageNumber;
     }
 
@@ -56,7 +56,7 @@ public class FindPopularSearchesRequest extends AbstractRequest {
         PageNumber = pageNumber;
     }
 
-    public boolean getIncludeChildCategories() {
+    public Boolean getIncludeChildCategories() {
         return IncludeChildCategories;
     }
 
