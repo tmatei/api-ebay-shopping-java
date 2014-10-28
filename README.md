@@ -8,9 +8,9 @@ A Java client library for [Ebay Shopping](http://developer.ebay.com/devzone/shop
 ### Maven dependency
 ```xml
 <dependency>
-    <groupId>com.tudormatei</groupId>
-    <artifactId>ebay-shopping-api</artifactId>
-    <version>1.2.0</version>
+    <groupId>com.tudormatei.ebay</groupId>
+    <artifactId>shopping-api</artifactId>
+    <version>1.0</version>
 </dependency>
 ```
 
