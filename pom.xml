@@ -4,7 +4,7 @@
     <groupId>com.tudormatei.ebay</groupId>
     <artifactId>shopping-api</artifactId>
     <packaging>jar</packaging>
-    <version>1.0.1-SNAPSHOT</version>
+    <version>1.0.0-SNAPSHOT</version>
     <name>api-ebay-shopping-java</name>
     <description>An object-oriented client library for Ebay's Shopping API</description>
     <url>http://maven.apache.org</url>
