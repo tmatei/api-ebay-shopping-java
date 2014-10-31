@@ -10,7 +10,7 @@ A Java client library for [Ebay Shopping](http://developer.ebay.com/devzone/shop
 <dependency>
     <groupId>com.tudormatei.ebay</groupId>
     <artifactId>shopping-api</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
 </dependency>
 ```
 
