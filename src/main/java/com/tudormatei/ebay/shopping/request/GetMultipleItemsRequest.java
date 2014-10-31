@@ -19,4 +19,8 @@ public class GetMultipleItemsRequest extends AbstractRequest {
     public List<String> getItemID() {
          return ItemID;
     }
+
+    public void setItemID(List<String> itemID) {
+        ItemID = itemID;
+    }
 }

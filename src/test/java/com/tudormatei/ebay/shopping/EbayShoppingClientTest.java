@@ -212,7 +212,7 @@ public class EbayShoppingClientTest {
     public void getMultipleItems() {
 
         // set up the request
-        GetItemStatusRequest request = new GetItemStatusRequest();
+        GetMultipleItemsRequest request = new GetMultipleItemsRequest();
         request.setItemID(Arrays.asList("310793437641", "221291285284"));
         request.setMessageID("getMultipleItemsTest");
 
