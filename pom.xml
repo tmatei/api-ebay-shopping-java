@@ -4,7 +4,7 @@
     <groupId>com.tudormatei.ebay</groupId>
     <artifactId>shopping-api</artifactId>
     <packaging>jar</packaging>
-    <version>1.0.1</version>
+    <version>1.0.2-SNAPSHOT</version>
     <name>api-ebay-shopping-java</name>
     <description>An object-oriented client library for Ebay's Shopping API</description>
     <url>http://github.com/tmatei/api-ebay-shopping-java</url>
@@ -28,7 +28,7 @@
         <connection>scm:git:git@github.com:tmatei/api-ebay-shopping-java.git</connection>
         <developerConnection>scm:git:git@github.com:tmatei/api-ebay-shopping-java.git</developerConnection>
         <url>http://github.com/tmatei/api-ebay-shopping-java</url>
-        <tag>shopping-api-1.0.1</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <build>
